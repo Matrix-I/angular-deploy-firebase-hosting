@@ -12,7 +12,7 @@ body {
 }
 
 .resume-container {
-  max-width: 1000px;
+  max-width: 1100px;
   margin: 0 auto;
   background: white;
   box-shadow: 0 0 20px rgba(0,0,0,0.1);
@@ -86,8 +86,6 @@ body {
 }
 
 .contact-icon {
-  width: 16px;
-  height: 16px;
   margin-right: 10px;
   color: #f39c12;
 }
@@ -180,6 +178,11 @@ body {
   color: #666;
   margin-bottom: 12px;
   font-style: italic;
+}
+
+.job-technologies {
+  font-size: 16px;
+  margin-bottom: 8px;
 }
 
 .job-responsibilities {
